@@ -2,7 +2,7 @@
 Часть 2 
 Задание 1. Список логинов курьеров с количеством их заказов в статусе «В доставке» (поле inDelivery = true). https://github.com/final_project/blob/main/2.png
 
-Задание 2. Трекеры заказов и их статусы - https://github.com/final_project/blob/main/1.png
+Задание 2. Трекеры заказов и их статусы - https://github.com/yulya-blinkova/autotest-and-sql/blob/main/1.2.png
 
 Автоматизация теста к API 
 Для запуска теста должны быть установлены пакеты pytest и requests Запуск всех тестов выполняется командой pytest. 
