@@ -11,4 +11,4 @@
 В файле "sender_stand_request.py" описаны функции создания нового заказа и получения заказа по номеру. 
 В файле "create_order_test.py" прописан сам тест. 
 Перед запуском тестов необходимо актуализировать переменную URL_SERVICE в "configuration.py". 
-Скриншот с результатами теста https://github.com/final_project/blob/main/автотест.jpg.
+Скриншот с результатами теста https://github.com/yulya-blinkova/autotest-and-sql/blob/main/test.png.
